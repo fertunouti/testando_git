@@ -1,6 +1,6 @@
 # Como Trabalhar em Equipe ou Colaborar para um projeto no GitHub
 ### por Fernando Tunouti
-1. Habilitando os colaboradores
+1. Habilitando os colaboradores do projeto
     > No GitHub , o dono do repositório deverá inicialmente incluir os colaboradores, no menu _settings/collaborators_ do repositório a ser compartilhado.
     > Os convidados receberão mensagem para aceitar o convite.
   
