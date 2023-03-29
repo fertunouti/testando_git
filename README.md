@@ -48,13 +48,18 @@
     > 
     > Senão utilizar o comando _git remote set-url origin <https-url>_
     > Verificar novamente com o comando:  _git remote -v_
+    >
     > Para empurrar para o GitHub: digite o comando "git push origin nomeXXX_da_branch"
 
 1. Fazer o pull request para o dono do repositório
     > Acessar o site GitHub com o seu login
+    >
     > Acessar o repositório que vc fez o push.
     > Verifique se há uma mensagem de Pull Request
     > Clicar no botão "Compare pull request" 
+    >
     > Opcional: Digite uma mensagem para o dono do repositório explicando sobre as modificações no projeto
+    >
     > Clique em "Create pull request" , para requisitar as mudanças
+    >
     > O dono do repositório, irá fazer as análises necessárias e se tiver tudo aprovado deverá fazer o "merge" no projeto.
