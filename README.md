@@ -8,6 +8,7 @@
     > No gitHub Desktop, inicie clonando a partir de uma url, informando o endereço do repositório _usuario/nome-repositório_
     > 
     > ou..
+    > 
     > Acessar o diretório local de trabalho pelo gitBash ou cmd do windows
     > dar o comando "git clone _https://github.com/projetoXXXX.git"_
 
@@ -15,6 +16,7 @@
     > No GitDesktop - clicar em abrir no VsCode
     > 
     > ou ..
+    > 
     > Acessar o diretorio clonado na sua máquina
     > dar o comando "code .", para abrir o projeto no VsCode
 
@@ -23,6 +25,7 @@
     > Preencher os dados e criar
     > 
     > ou ..
+    > 
     > abra um terminal do VScode , de preferencia o bash
     > digite o comando "git branch nomeXXX_da_branch"
     > após criada a branch, dar o comando "git checkout nomeXXX_da_branch" , para mudar a branch de trabalho
@@ -33,6 +36,7 @@
     > No GitDesktop proceder com os comandos para o commit
     >  
     > ou..
+    > 
     > digite o comando "git add ."
     > digite o commando "git commit-m " XXXX comentários"
 
