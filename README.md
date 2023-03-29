@@ -43,7 +43,9 @@
 1. Empurrar para a branch remota:
     > No GitHub Desktop verificar na aba----->  se o Git está apontando para o repositório remoto correto 
     > no bash utilizar o comando: _git remote -v_
+    > 
     > Se retornar com o endereço correto ir para o próximo passo
+    > 
     > Senão utilizar o comando _git remote set-url origin <https-url>_
     > Verificar novamente com o comando:  _git remote -v_
     > Para empurrar para o GitHub: digite o comando "git push origin nomeXXX_da_branch"
